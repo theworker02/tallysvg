@@ -24,6 +24,8 @@
     "svg",
     "csv",
     "cli",
-    "toolkit"
+    "toolkit",
+    "v1",
+    "stable"
   ]
 }
