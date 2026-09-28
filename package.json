@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/tallysvg",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tally CSV/TSV svg tables for quick inspection and cleanup.",
+  "bin": {
+    "tallysvg": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/tallysvg.git"
+  },
+  "homepage": "https://theworker02.github.io/tallysvg/",
+  "keywords": [
+    "tally",
+    "svg",
+    "csv",
+    "cli",
+    "toolkit"
+  ]
+}
